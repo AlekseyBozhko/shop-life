@@ -14,7 +14,7 @@
       "allowBuiltInTypeAliases": false
     },
     "layoutRules": {
-      "newlineAtEndOfFile": "omit",
+      "newlineAtEndOfFile": "allow",
       "allowConsecutiveUsings": false
     },
     "documentationRules": {
